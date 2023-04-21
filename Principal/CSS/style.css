@@ -55,6 +55,12 @@ img {
     border-radius: 0;
 }
 
+#containerIntegrantesDos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .hero {
     background-image: url(../Img/Semillas\ de\ la\ esperanza.png);
     background-position: center;
